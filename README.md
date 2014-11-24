@@ -1,7 +1,7 @@
 Octocat
 ========
 
-![octocat badge](../../../public/images/badges/Octocat.png)
+![octocat badge](Octocat.png)
 
 Instructions
 --------
