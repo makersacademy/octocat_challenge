@@ -16,7 +16,7 @@ Tasks:
 
 **Part 1**
 
-* Create a new repository on Github to store a list of test questions for this test. Choose the name appropriately
+* Create a new repository on Github to store a list of test questions for this test. Call the repository "Octocat".
 * Clone it locally into your dev folder making sure you don't get unnecessary double nesting, e.g. ~/projects/repo_name/repo_name/repo_files
 * Create one file for each of the following questions on the master branch. Put each question (not answer) in its own file.
   * Explain what git clone does, in your own words
