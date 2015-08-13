@@ -5,10 +5,10 @@ Octocat
 
 Instructions
 --------
-
+* Fill in your learning plan and send us a pull request.
 * Challenge time: up to you
 * Feel free to use google, your notes, books, etc but work on your own
-* As usual, there will be bits that we haven't covered yet, you're supposed to find the answers on the fly using the documentation
+* As usual, there will be bits that we haven't covered yet, you're supposed to find the answers on the fly using documentation
 * Read all instructions before attempting the challenge
 
 Tasks:
@@ -29,9 +29,6 @@ Tasks:
 * Make sure both branches are pushed back to github
 
 **Part 2** 
-
-
-You may need to consult the official documentation (https://help.github.com/articles/fork-a-repo). We haven't covered forking yet, please use the documentation.
 
 * Fork the repo https://github.com/makersacademy/the-cat
 * Clone your fork 
